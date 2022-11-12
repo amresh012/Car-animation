@@ -58,12 +58,10 @@
 }
 .car
 {
-    width: 400px;
   position: absolute;
   top: 170px;
   left: 300px;
   z-index: 2;
-  /* transform: translateX(-50%); */
   
    
 }
